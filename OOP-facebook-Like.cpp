@@ -1,4 +1,3 @@
-//23L-0612
 #include<iostream>
 #include<fstream>
 using namespace std;
